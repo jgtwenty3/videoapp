@@ -19,7 +19,7 @@ const HomeLayout = ({children}: {children:ReactNode}) => {
             </section>
         </div>
         
-        FOOTER
+       
     </main>
   )
 }

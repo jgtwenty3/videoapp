@@ -71,7 +71,7 @@ const MeetingCard = ({
                 navigator.clipboard.writeText(link);
                 
               }}
-              className="bg-dark-4 px-6"
+              className="bg-dark-1 px-6"
             >
               <Image
                 src="/icons/copy.svg"
