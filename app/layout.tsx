@@ -21,15 +21,16 @@ export default function RootLayout({
     <html lang="en">
       <ClerkProvider appearance={{
         layout:{
-          logoImageUrl:'/icons/yoom-logo.svg',
+          logoImageUrl:'/icons/hyvidlogo1.png',
           socialButtonsVariant:'iconButton'
         },
         variables:{
           colorText:'#fff',
           colorPrimary:'#0E78F9',
-          colorBackground:'#1c1f2e',
+          colorBackground:'#000000',
           colorInputBackground:"#252a41",
           colorInputText:"#fff"
+          
         }
       }}>
         <body className={`${inter.className} bg-dark-2`}>
